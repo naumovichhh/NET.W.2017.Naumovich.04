@@ -1,0 +1,5 @@
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\DoubleToStringBinary\DoubleToStringBinary\bin\Debug\DoubleToStringBinary.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\DoubleToStringBinary\DoubleToStringBinary\bin\Debug\DoubleToStringBinary.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\DoubleToStringBinary\DoubleToStringBinary\obj\Debug\DoubleToBinary.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\DoubleToStringBinary\DoubleToStringBinary\obj\Debug\DoubleToStringBinary.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\DoubleToStringBinary\DoubleToStringBinary\obj\Debug\DoubleToStringBinary.pdb
