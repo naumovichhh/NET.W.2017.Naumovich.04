@@ -1,0 +1,5 @@
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

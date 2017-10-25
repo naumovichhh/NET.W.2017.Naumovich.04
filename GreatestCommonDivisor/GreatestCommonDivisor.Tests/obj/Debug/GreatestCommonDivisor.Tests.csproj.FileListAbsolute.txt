@@ -1,0 +1,9 @@
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\GreatestCommonDivisor.Tests.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\GreatestCommonDivisor.Tests.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\GreatestCommonDivisor.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\nunit.framework.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\GreatestCommonDivisor.pdb
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\bin\Debug\nunit.framework.xml
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\obj\Debug\GreatestCommonDivisor.Tests.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\obj\Debug\GreatestCommonDivisor.Tests.dll
+c:\users\роман\documents\visual studio 2017\Projects\EPAM\GreatestCommonDivisor\GreatestCommonDivisor.Tests\obj\Debug\GreatestCommonDivisor.Tests.pdb
