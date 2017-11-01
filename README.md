@@ -1,1 +1,4 @@
-# NET.W.2017.Naumovich.04
+# GreatestCommonDivisor
+Нахождение НОД
+# DoubleToStringBinary
+Получение двоичного представления экземпляра double в памяти
